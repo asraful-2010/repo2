@@ -1,1 +1,2 @@
 this is demo2 txt file and its not added status area
+this line added to check pull
